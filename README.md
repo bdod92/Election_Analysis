@@ -29,6 +29,8 @@ The analysis of the election show that:
    - Denver casted 82.8% of the votes and 306,055 total votes.
    - Arapahoe received 6.7% of the votes and 24,801 total votes.
  - The largest number of votes casted was in Denver
+ - The photo below explains how the counties were aggregated into a single list.
+ ![Code aggregator snip](Analysis/County_aggregator_code_Snippit.png)
 
 ### Candidate Results:
 - The candidates were:
